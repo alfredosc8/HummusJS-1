@@ -10,4 +10,4 @@ What is special about HummusJS is that it allows for reading, writing *and* modi
 
 Documentation is available [in the Wiki](https://github.com/KingstonSoftware/HummusJS/wiki) and we welcome contributions.
 
-The original project site is [here](http://www.pdfhummus.com) and the C++ library upon which this module is base is [here](https://github.com/galkahana/PDF-Writer).
+The original project site is [here](http://www.pdfhummus.com) and the C++ library upon which this module is based is [here](https://github.com/galkahana/PDF-Writer).
