@@ -12,7 +12,7 @@
     build: 20200421,
     revision: 0,
     tz: 'America/Los_Angeles',
-    sequence: 1,
+    sequence: 2,
   },
   fileTypes: [
     {
