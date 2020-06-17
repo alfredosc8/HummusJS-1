@@ -1,14 +1,15 @@
 {
-  "name": "@kingstonsoftware/hummus",
+  "name": "@alfredosc8/hummus2",
   "version": "1.0.109",
   "description": "Create, read and modify PDF files and streams",
   "homepage": "http://pdfhummus.com/",
   "license": "Apache-2.0",
   "author": "Gal Kahana <gal.kahana@hotmail.com>",
   "contributors": [
-    "KSS Support <support@kss.us.com>"
+    "Alfredo Scotto <alfredosc8@gmail.com>"
   ],
   "main": "./hummus.js",
+  "types": "./hummus.d.ts",
   "scripts": {
     "build": "node-pre-gyp build",
     "rebuild": "node-pre-gyp rebuild",
@@ -20,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/KingstonSoftware/HummusJS.git"
+    "url": "git://github.com/alfredosc8/HummusJS-1.git"
   },
   "keywords": [
     "pdf",
@@ -52,7 +53,7 @@
     "module_name": "hummus",
     "module_path": "./binding",
     "remote_path": "./{module_name}/v{version}/{toolset}/",
-    "host": "https://kss-hummus.s3-us-west-2.amazonaws.com",
+    "host": "https://asc8-hummus.s3-us-west-2.amazonaws.com",
     "package_name": "{node_abi}-{platform}-{arch}-{libc}.tar.gz"
   },
   "publishConfig": {
